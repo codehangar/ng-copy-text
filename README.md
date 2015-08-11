@@ -16,11 +16,12 @@ Download the from [here](https://github.com/codehangar/ng-copy-text/releases)
 ```
 bower install ng-copy-text
 ```
-
+<!--
 #### Npm
 ```
 npm install ng-copy-text
 ```
+-->
 
 #### CDN
 ng-clip is available at [cdnjs](http://www.cdnjs.com/libraries/ng-copy-text)
@@ -29,6 +30,9 @@ ng-clip is available at [cdnjs](http://www.cdnjs.com/libraries/ng-copy-text)
 ## Usage
 
 1. Add ng-copy-text.js to your main file (index.html)
+  ```html
+  <script type="text/javascript" src="bower_components/ng-copy-text/dist/ng-copy-text.js"></script>
+  ```
 
 2. Set `ngCopyText` as a dependency in your module
   ```javascript
