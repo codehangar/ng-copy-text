@@ -11,23 +11,6 @@ angular
 
 angular
   .module('ngCopyText')
-  .directive('appVersion', [
-    'version', function (version) {
-      return function (scope, elm) {
-        elm.text(version);
-      };
-    }
-  ]);
-
-'use strict';
-
-/**
- * Directive for adding copy-to-clipboard functionality to elements
- * @class
- * @name CopyToClipboard
- */
-angular
-  .module('ngCopyText')
   .directive('copyText', [
     '$timeout', function ($timeout) {
 
