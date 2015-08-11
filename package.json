@@ -1,9 +1,9 @@
 {
-  "name": "angular-component-seed",
+  "name": "ng-copy-text",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for a reusable AngularJS bower component. Gulp, karma, jshint & travis out of the box.",
-  "repository": "https://github.com/refactorthis/angular-component-seed",
+  "description": "HTML5 based Copy-to-Clipboard with AngularJS",
+  "repository": "https://github.com/codehangar/ng-copy-text",
   "license": "MIT",
   "devDependencies": {
     "extend": "~2.0.0",

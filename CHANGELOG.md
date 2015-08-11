@@ -1,6 +1,5 @@
 ### HEAD
 
-### 1.0.0 (6th Oct 2014)
+### 0.0.0 (10th Aug 2015)
 
-* Added gulp, bower, karma & wired up post processing for npm install
-* Added component example from angular seed project
+* Initial
