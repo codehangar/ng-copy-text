@@ -16,7 +16,6 @@
     "angular"
   ],
   "license": "MIT",
-  "private": true,
   "devDependencies": {
     "angular": "1.2.x",
     "angular-mocks": "~1.2.x"
