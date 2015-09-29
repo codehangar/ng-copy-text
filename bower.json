@@ -4,6 +4,7 @@
   "main": "./dist/ng-copy-text.js",
   "description": "HTML5 based Copy-to-Clipboard with AngularJS.",
   "homepage": "https://github.com/codehangar/ng-copy-text",
+  "private": false,
   "authors": [
     "Ian Grail"
   ],
